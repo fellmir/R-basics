@@ -1,1 +1,1 @@
-Some early steps in R programming, guided by an Udemy course from Jose Ortilla.
+Some early steps in R programming, guided by an Udemy course from Jose Portilla.
